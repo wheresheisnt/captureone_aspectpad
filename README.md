@@ -1,7 +1,7 @@
 # captureone_aspectpad
 This program gives an image a frame, padding it out to a specified aspect ratio, center & colour.
 The defaults are an instagram friendly aspect ratio of 1080 * 1350 and a black background.
-Colour can be changed by passing one to add_padding.
+Colour can be changed by passing a value to add_padding.
 
 Use the aspectpad_runner automator app to launch the python file. This is what you set the C1 process recipe to open the file in. 
 
